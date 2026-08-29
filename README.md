@@ -1,2 +1,2 @@
-# MS-SAPP-student-academic-performance-prediction
+# MS-SAPP
 Open-source implementation of MS-SAPP for multi-view student academic performance prediction
