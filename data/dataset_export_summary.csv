@@ -1,0 +1,7 @@
+﻿Dataset,Rows,Columns,CSV File,File Path
+3class_original,1021,16,3class_original.csv,E:\2026.02.03 D Backup From Previous SSD\Dropbox 15.10.22\after phd\Papers\Students academic performance prediction\Exported_Datasets\3class_original.csv
+3class_duplicate_removed,348,16,3class_duplicate_removed.csv,E:\2026.02.03 D Backup From Previous SSD\Dropbox 15.10.22\after phd\Papers\Students academic performance prediction\Exported_Datasets\3class_duplicate_removed.csv
+3class_outlier_removed,239,16,3class_outlier_removed.csv,E:\2026.02.03 D Backup From Previous SSD\Dropbox 15.10.22\after phd\Papers\Students academic performance prediction\Exported_Datasets\3class_outlier_removed.csv
+2class_original,1021,16,2class_original.csv,E:\2026.02.03 D Backup From Previous SSD\Dropbox 15.10.22\after phd\Papers\Students academic performance prediction\Exported_Datasets\2class_original.csv
+2class_duplicate_removed,348,16,2class_duplicate_removed.csv,E:\2026.02.03 D Backup From Previous SSD\Dropbox 15.10.22\after phd\Papers\Students academic performance prediction\Exported_Datasets\2class_duplicate_removed.csv
+2class_outlier_removed,239,16,2class_outlier_removed.csv,E:\2026.02.03 D Backup From Previous SSD\Dropbox 15.10.22\after phd\Papers\Students academic performance prediction\Exported_Datasets\2class_outlier_removed.csv
