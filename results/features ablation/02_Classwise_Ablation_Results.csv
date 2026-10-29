@@ -1,0 +1,301 @@
+Dataset,Feature Configuration,Model,Class,TP,TN,FP,FN,Precision,Sensitivity,Specificity,F1
+3class_original,FA1_Academic,Gradient Boosting,A,62,119,5,19,0.9253731343283582,0.7654320987654321,0.9596774193548387,0.8378378378378379
+3class_original,FA1_Academic,Gradient Boosting,B,50,112,31,12,0.6172839506172839,0.8064516129032258,0.7832167832167832,0.6993006993006994
+3class_original,FA1_Academic,Gradient Boosting,F,47,133,10,15,0.8245614035087719,0.7580645161290323,0.9300699300699301,0.7899159663865545
+3class_original,FA1_Academic,Random Forest,A,59,118,6,22,0.9076923076923077,0.7283950617283951,0.9516129032258065,0.8082191780821918
+3class_original,FA1_Academic,Random Forest,B,50,112,31,12,0.6172839506172839,0.8064516129032258,0.7832167832167832,0.6993006993006994
+3class_original,FA1_Academic,Random Forest,F,48,132,11,14,0.8135593220338984,0.7741935483870968,0.9230769230769231,0.7933884297520662
+3class_original,FA1_Academic,Quadratic Discriminant Analysis,A,0,124,0,81,0.0,0.0,1.0,0.0
+3class_original,FA1_Academic,Quadratic Discriminant Analysis,B,62,0,143,0,0.3024390243902439,1.0,0.0,0.4644194756554307
+3class_original,FA1_Academic,Quadratic Discriminant Analysis,F,0,143,0,62,0.0,0.0,1.0,0.0
+3class_original,FA1_Academic,Extra Trees,A,60,118,6,21,0.9090909090909091,0.7407407407407407,0.9516129032258065,0.8163265306122449
+3class_original,FA1_Academic,Extra Trees,B,50,113,30,12,0.625,0.8064516129032258,0.7902097902097902,0.7042253521126761
+3class_original,FA1_Academic,Extra Trees,F,48,132,11,14,0.8135593220338984,0.7741935483870968,0.9230769230769231,0.7933884297520662
+3class_original,FA1_Academic,Decision Tree,A,58,118,6,23,0.90625,0.7160493827160493,0.9516129032258065,0.7999999999999999
+3class_original,FA1_Academic,Decision Tree,B,50,111,32,12,0.6097560975609756,0.8064516129032258,0.7762237762237763,0.6944444444444445
+3class_original,FA1_Academic,Decision Tree,F,48,132,11,14,0.8135593220338984,0.7741935483870968,0.9230769230769231,0.7933884297520662
+3class_original,FA2_Academic_Demographic,Gradient Boosting,A,67,106,18,14,0.788235294117647,0.8271604938271605,0.8548387096774194,0.8072289156626505
+3class_original,FA2_Academic_Demographic,Gradient Boosting,B,44,125,18,18,0.7096774193548387,0.7096774193548387,0.8741258741258742,0.7096774193548389
+3class_original,FA2_Academic_Demographic,Gradient Boosting,F,47,132,11,15,0.8103448275862069,0.7580645161290323,0.9230769230769231,0.7833333333333333
+3class_original,FA2_Academic_Demographic,Random Forest,A,66,104,20,15,0.7674418604651163,0.8148148148148148,0.8387096774193549,0.7904191616766467
+3class_original,FA2_Academic_Demographic,Random Forest,B,46,124,19,16,0.7076923076923077,0.7419354838709677,0.8671328671328671,0.7244094488188977
+3class_original,FA2_Academic_Demographic,Random Forest,F,48,137,6,14,0.8888888888888888,0.7741935483870968,0.958041958041958,0.8275862068965517
+3class_original,FA2_Academic_Demographic,Quadratic Discriminant Analysis,A,58,84,40,23,0.5918367346938775,0.7160493827160493,0.6774193548387096,0.64804469273743
+3class_original,FA2_Academic_Demographic,Quadratic Discriminant Analysis,B,46,91,52,16,0.46938775510204084,0.7419354838709677,0.6363636363636364,0.5750000000000001
+3class_original,FA2_Academic_Demographic,Quadratic Discriminant Analysis,F,7,141,2,55,0.7777777777777778,0.11290322580645161,0.986013986013986,0.19718309859154928
+3class_original,FA2_Academic_Demographic,Extra Trees,A,67,104,20,14,0.7701149425287356,0.8271604938271605,0.8387096774193549,0.7976190476190476
+3class_original,FA2_Academic_Demographic,Extra Trees,B,46,125,18,16,0.71875,0.7419354838709677,0.8741258741258742,0.7301587301587302
+3class_original,FA2_Academic_Demographic,Extra Trees,F,48,137,6,14,0.8888888888888888,0.7741935483870968,0.958041958041958,0.8275862068965517
+3class_original,FA2_Academic_Demographic,Decision Tree,A,65,104,20,16,0.7647058823529411,0.8024691358024691,0.8387096774193549,0.7831325301204819
+3class_original,FA2_Academic_Demographic,Decision Tree,B,46,123,20,16,0.696969696969697,0.7419354838709677,0.8601398601398601,0.71875
+3class_original,FA2_Academic_Demographic,Decision Tree,F,48,137,6,14,0.8888888888888888,0.7741935483870968,0.958041958041958,0.8275862068965517
+3class_original,FA3_Academic_Socioeconomic,Gradient Boosting,A,60,115,9,21,0.8695652173913043,0.7407407407407407,0.9274193548387096,0.7999999999999999
+3class_original,FA3_Academic_Socioeconomic,Gradient Boosting,B,48,121,22,14,0.6857142857142857,0.7741935483870968,0.8461538461538461,0.7272727272727272
+3class_original,FA3_Academic_Socioeconomic,Gradient Boosting,F,53,130,13,9,0.803030303030303,0.8548387096774194,0.9090909090909091,0.828125
+3class_original,FA3_Academic_Socioeconomic,Random Forest,A,64,110,14,17,0.8205128205128205,0.7901234567901234,0.8870967741935484,0.8050314465408805
+3class_original,FA3_Academic_Socioeconomic,Random Forest,B,46,122,21,16,0.6865671641791045,0.7419354838709677,0.8531468531468531,0.7131782945736433
+3class_original,FA3_Academic_Socioeconomic,Random Forest,F,52,135,8,10,0.8666666666666667,0.8387096774193549,0.9440559440559441,0.8524590163934426
+3class_original,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,A,37,94,30,44,0.5522388059701493,0.4567901234567901,0.7580645161290323,0.5
+3class_original,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,B,33,82,61,29,0.35106382978723405,0.532258064516129,0.5734265734265734,0.423076923076923
+3class_original,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,F,19,118,25,43,0.4318181818181818,0.3064516129032258,0.8251748251748252,0.3584905660377358
+3class_original,FA3_Academic_Socioeconomic,Extra Trees,A,66,110,14,15,0.825,0.8148148148148148,0.8870967741935484,0.8198757763975155
+3class_original,FA3_Academic_Socioeconomic,Extra Trees,B,46,123,20,16,0.696969696969697,0.7419354838709677,0.8601398601398601,0.71875
+3class_original,FA3_Academic_Socioeconomic,Extra Trees,F,52,136,7,10,0.8813559322033898,0.8387096774193549,0.951048951048951,0.859504132231405
+3class_original,FA3_Academic_Socioeconomic,Decision Tree,A,62,112,12,19,0.8378378378378378,0.7654320987654321,0.9032258064516129,0.8
+3class_original,FA3_Academic_Socioeconomic,Decision Tree,B,48,121,22,14,0.6857142857142857,0.7741935483870968,0.8461538461538461,0.7272727272727272
+3class_original,FA3_Academic_Socioeconomic,Decision Tree,F,52,134,9,10,0.8524590163934426,0.8387096774193549,0.9370629370629371,0.8455284552845529
+3class_original,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,A,62,119,5,19,0.9253731343283582,0.7654320987654321,0.9596774193548387,0.8378378378378379
+3class_original,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,B,52,127,16,10,0.7647058823529411,0.8387096774193549,0.8881118881118881,0.7999999999999999
+3class_original,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,F,56,129,14,6,0.8,0.9032258064516129,0.9020979020979021,0.8484848484848486
+3class_original,FA4_Academic_Demographic_Socioeconomic,Random Forest,A,66,108,16,15,0.8048780487804879,0.8148148148148148,0.8709677419354839,0.8098159509202455
+3class_original,FA4_Academic_Demographic_Socioeconomic,Random Forest,B,48,125,18,14,0.7272727272727273,0.7741935483870968,0.8741258741258742,0.7500000000000001
+3class_original,FA4_Academic_Demographic_Socioeconomic,Random Forest,F,52,138,5,10,0.9122807017543859,0.8387096774193549,0.965034965034965,0.8739495798319329
+3class_original,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,A,77,15,109,4,0.41397849462365593,0.9506172839506173,0.12096774193548387,0.5767790262172285
+3class_original,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,B,0,143,0,62,0.0,0.0,1.0,0.0
+3class_original,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,F,15,139,4,47,0.7894736842105263,0.24193548387096775,0.972027972027972,0.37037037037037035
+3class_original,FA4_Academic_Demographic_Socioeconomic,Extra Trees,A,71,106,18,10,0.797752808988764,0.8765432098765432,0.8548387096774194,0.8352941176470587
+3class_original,FA4_Academic_Demographic_Socioeconomic,Extra Trees,B,46,129,14,16,0.7666666666666667,0.7419354838709677,0.9020979020979021,0.7540983606557377
+3class_original,FA4_Academic_Demographic_Socioeconomic,Extra Trees,F,52,139,4,10,0.9285714285714286,0.8387096774193549,0.972027972027972,0.8813559322033899
+3class_original,FA4_Academic_Demographic_Socioeconomic,Decision Tree,A,66,105,19,15,0.7764705882352941,0.8148148148148148,0.8467741935483871,0.7951807228915663
+3class_original,FA4_Academic_Demographic_Socioeconomic,Decision Tree,B,45,126,17,17,0.7258064516129032,0.7258064516129032,0.8811188811188811,0.7258064516129032
+3class_original,FA4_Academic_Demographic_Socioeconomic,Decision Tree,F,52,137,6,10,0.896551724137931,0.8387096774193549,0.958041958041958,0.8666666666666666
+3class_original,FA5_Demographic,Gradient Boosting,A,38,69,55,43,0.40860215053763443,0.4691358024691358,0.5564516129032258,0.4367816091954024
+3class_original,FA5_Demographic,Gradient Boosting,B,0,143,0,62,0.0,0.0,1.0,0.0
+3class_original,FA5_Demographic,Gradient Boosting,F,50,81,62,12,0.44642857142857145,0.8064516129032258,0.5664335664335665,0.5747126436781609
+3class_original,FA5_Demographic,Random Forest,A,38,69,55,43,0.40860215053763443,0.4691358024691358,0.5564516129032258,0.4367816091954024
+3class_original,FA5_Demographic,Random Forest,B,0,143,0,62,0.0,0.0,1.0,0.0
+3class_original,FA5_Demographic,Random Forest,F,50,81,62,12,0.44642857142857145,0.8064516129032258,0.5664335664335665,0.5747126436781609
+3class_original,FA5_Demographic,Quadratic Discriminant Analysis,A,0,124,0,81,0.0,0.0,1.0,0.0
+3class_original,FA5_Demographic,Quadratic Discriminant Analysis,B,43,93,50,19,0.46236559139784944,0.6935483870967742,0.6503496503496503,0.5548387096774193
+3class_original,FA5_Demographic,Quadratic Discriminant Analysis,F,50,81,62,12,0.44642857142857145,0.8064516129032258,0.5664335664335665,0.5747126436781609
+3class_original,FA5_Demographic,Extra Trees,A,38,69,55,43,0.40860215053763443,0.4691358024691358,0.5564516129032258,0.4367816091954024
+3class_original,FA5_Demographic,Extra Trees,B,0,143,0,62,0.0,0.0,1.0,0.0
+3class_original,FA5_Demographic,Extra Trees,F,50,81,62,12,0.44642857142857145,0.8064516129032258,0.5664335664335665,0.5747126436781609
+3class_original,FA5_Demographic,Decision Tree,A,38,69,55,43,0.40860215053763443,0.4691358024691358,0.5564516129032258,0.4367816091954024
+3class_original,FA5_Demographic,Decision Tree,B,0,143,0,62,0.0,0.0,1.0,0.0
+3class_original,FA5_Demographic,Decision Tree,F,50,81,62,12,0.44642857142857145,0.8064516129032258,0.5664335664335665,0.5747126436781609
+3class_original,FA6_Socioeconomic,Gradient Boosting,A,41,94,30,40,0.5774647887323944,0.5061728395061729,0.7580645161290323,0.5394736842105263
+3class_original,FA6_Socioeconomic,Gradient Boosting,B,13,136,7,49,0.65,0.20967741935483872,0.951048951048951,0.3170731707317073
+3class_original,FA6_Socioeconomic,Gradient Boosting,F,55,84,59,7,0.4824561403508772,0.8870967741935484,0.5874125874125874,0.625
+3class_original,FA6_Socioeconomic,Random Forest,A,41,94,30,40,0.5774647887323944,0.5061728395061729,0.7580645161290323,0.5394736842105263
+3class_original,FA6_Socioeconomic,Random Forest,B,13,136,7,49,0.65,0.20967741935483872,0.951048951048951,0.3170731707317073
+3class_original,FA6_Socioeconomic,Random Forest,F,55,84,59,7,0.4824561403508772,0.8870967741935484,0.5874125874125874,0.625
+3class_original,FA6_Socioeconomic,Quadratic Discriminant Analysis,A,32,88,36,49,0.47058823529411764,0.3950617283950617,0.7096774193548387,0.42953020134228187
+3class_original,FA6_Socioeconomic,Quadratic Discriminant Analysis,B,21,128,15,41,0.5833333333333334,0.3387096774193548,0.8951048951048951,0.4285714285714285
+3class_original,FA6_Socioeconomic,Quadratic Discriminant Analysis,F,40,82,61,22,0.39603960396039606,0.6451612903225806,0.5734265734265734,0.49079754601226994
+3class_original,FA6_Socioeconomic,Extra Trees,A,41,94,30,40,0.5774647887323944,0.5061728395061729,0.7580645161290323,0.5394736842105263
+3class_original,FA6_Socioeconomic,Extra Trees,B,13,136,7,49,0.65,0.20967741935483872,0.951048951048951,0.3170731707317073
+3class_original,FA6_Socioeconomic,Extra Trees,F,55,84,59,7,0.4824561403508772,0.8870967741935484,0.5874125874125874,0.625
+3class_original,FA6_Socioeconomic,Decision Tree,A,41,94,30,40,0.5774647887323944,0.5061728395061729,0.7580645161290323,0.5394736842105263
+3class_original,FA6_Socioeconomic,Decision Tree,B,13,136,7,49,0.65,0.20967741935483872,0.951048951048951,0.3170731707317073
+3class_original,FA6_Socioeconomic,Decision Tree,F,55,84,59,7,0.4824561403508772,0.8870967741935484,0.5874125874125874,0.625
+3class_duplicate_removed,FA1_Academic,Gradient Boosting,A,30,20,10,10,0.75,0.75,0.6666666666666666,0.75
+3class_duplicate_removed,FA1_Academic,Gradient Boosting,B,11,35,14,10,0.44,0.5238095238095238,0.7142857142857143,0.4782608695652174
+3class_duplicate_removed,FA1_Academic,Gradient Boosting,F,3,59,2,6,0.6,0.3333333333333333,0.9672131147540983,0.42857142857142855
+3class_duplicate_removed,FA1_Academic,Random Forest,A,31,19,11,9,0.7380952380952381,0.775,0.6333333333333333,0.7560975609756099
+3class_duplicate_removed,FA1_Academic,Random Forest,B,9,36,13,12,0.4090909090909091,0.42857142857142855,0.7346938775510204,0.4186046511627907
+3class_duplicate_removed,FA1_Academic,Random Forest,F,3,58,3,6,0.5,0.3333333333333333,0.9508196721311475,0.4
+3class_duplicate_removed,FA1_Academic,Quadratic Discriminant Analysis,A,0,30,0,40,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA1_Academic,Quadratic Discriminant Analysis,B,21,0,49,0,0.3,1.0,0.0,0.4615384615384615
+3class_duplicate_removed,FA1_Academic,Quadratic Discriminant Analysis,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA1_Academic,Extra Trees,A,31,17,13,9,0.7045454545454546,0.775,0.5666666666666667,0.7380952380952381
+3class_duplicate_removed,FA1_Academic,Extra Trees,B,8,35,14,13,0.36363636363636365,0.38095238095238093,0.7142857142857143,0.37209302325581395
+3class_duplicate_removed,FA1_Academic,Extra Trees,F,2,59,2,7,0.5,0.2222222222222222,0.9672131147540983,0.30769230769230765
+3class_duplicate_removed,FA1_Academic,Decision Tree,A,31,18,12,9,0.7209302325581395,0.775,0.6,0.7469879518072289
+3class_duplicate_removed,FA1_Academic,Decision Tree,B,8,34,15,13,0.34782608695652173,0.38095238095238093,0.6938775510204082,0.3636363636363636
+3class_duplicate_removed,FA1_Academic,Decision Tree,F,1,58,3,8,0.25,0.1111111111111111,0.9508196721311475,0.15384615384615383
+3class_duplicate_removed,FA2_Academic_Demographic,Gradient Boosting,A,36,18,12,4,0.75,0.9,0.6,0.8181818181818182
+3class_duplicate_removed,FA2_Academic_Demographic,Gradient Boosting,B,10,42,7,11,0.5882352941176471,0.47619047619047616,0.8571428571428571,0.5263157894736842
+3class_duplicate_removed,FA2_Academic_Demographic,Gradient Boosting,F,4,60,1,5,0.8,0.4444444444444444,0.9836065573770492,0.5714285714285714
+3class_duplicate_removed,FA2_Academic_Demographic,Random Forest,A,33,19,11,7,0.75,0.825,0.6333333333333333,0.7857142857142856
+3class_duplicate_removed,FA2_Academic_Demographic,Random Forest,B,11,37,12,10,0.4782608695652174,0.5238095238095238,0.7551020408163265,0.5
+3class_duplicate_removed,FA2_Academic_Demographic,Random Forest,F,2,60,1,7,0.6666666666666666,0.2222222222222222,0.9836065573770492,0.3333333333333333
+3class_duplicate_removed,FA2_Academic_Demographic,Quadratic Discriminant Analysis,A,0,30,0,40,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA2_Academic_Demographic,Quadratic Discriminant Analysis,B,21,3,46,0,0.31343283582089554,1.0,0.061224489795918366,0.4772727272727273
+3class_duplicate_removed,FA2_Academic_Demographic,Quadratic Discriminant Analysis,F,1,59,2,8,0.3333333333333333,0.1111111111111111,0.9672131147540983,0.16666666666666666
+3class_duplicate_removed,FA2_Academic_Demographic,Extra Trees,A,36,17,13,4,0.7346938775510204,0.9,0.5666666666666667,0.8089887640449438
+3class_duplicate_removed,FA2_Academic_Demographic,Extra Trees,B,9,40,9,12,0.5,0.42857142857142855,0.8163265306122449,0.4615384615384615
+3class_duplicate_removed,FA2_Academic_Demographic,Extra Trees,F,2,60,1,7,0.6666666666666666,0.2222222222222222,0.9836065573770492,0.3333333333333333
+3class_duplicate_removed,FA2_Academic_Demographic,Decision Tree,A,36,16,14,4,0.72,0.9,0.5333333333333333,0.7999999999999999
+3class_duplicate_removed,FA2_Academic_Demographic,Decision Tree,B,7,40,9,14,0.4375,0.3333333333333333,0.8163265306122449,0.37837837837837834
+3class_duplicate_removed,FA2_Academic_Demographic,Decision Tree,F,2,59,2,7,0.5,0.2222222222222222,0.9672131147540983,0.30769230769230765
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Gradient Boosting,A,31,18,12,9,0.7209302325581395,0.775,0.6,0.7469879518072289
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Gradient Boosting,B,10,37,12,11,0.45454545454545453,0.47619047619047616,0.7551020408163265,0.46511627906976744
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Gradient Boosting,F,4,60,1,5,0.8,0.4444444444444444,0.9836065573770492,0.5714285714285714
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Random Forest,A,32,17,13,8,0.7111111111111111,0.8,0.5666666666666667,0.7529411764705882
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Random Forest,B,9,35,14,12,0.391304347826087,0.42857142857142855,0.7142857142857143,0.4090909090909091
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Random Forest,F,2,61,0,7,1.0,0.2222222222222222,1.0,0.3636363636363636
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,A,16,27,3,24,0.8421052631578947,0.4,0.9,0.5423728813559322
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,B,15,21,28,6,0.3488372093023256,0.7142857142857143,0.42857142857142855,0.46875
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,F,3,56,5,6,0.375,0.3333333333333333,0.9180327868852459,0.35294117647058826
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Extra Trees,A,31,16,14,9,0.6888888888888889,0.775,0.5333333333333333,0.7294117647058822
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Extra Trees,B,8,35,14,13,0.36363636363636365,0.38095238095238093,0.7142857142857143,0.37209302325581395
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Extra Trees,F,2,60,1,7,0.6666666666666666,0.2222222222222222,0.9836065573770492,0.3333333333333333
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Decision Tree,A,32,16,14,8,0.6956521739130435,0.8,0.5333333333333333,0.7441860465116279
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Decision Tree,B,8,33,16,13,0.3333333333333333,0.38095238095238093,0.673469387755102,0.35555555555555557
+3class_duplicate_removed,FA3_Academic_Socioeconomic,Decision Tree,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,A,32,19,11,8,0.7441860465116279,0.8,0.6333333333333333,0.7710843373493975
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,B,11,38,11,10,0.5,0.5238095238095238,0.7755102040816326,0.5116279069767442
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,F,4,60,1,5,0.8,0.4444444444444444,0.9836065573770492,0.5714285714285714
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Random Forest,A,31,18,12,9,0.7209302325581395,0.775,0.6,0.7469879518072289
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Random Forest,B,10,38,11,11,0.47619047619047616,0.47619047619047616,0.7755102040816326,0.47619047619047616
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Random Forest,F,4,59,2,5,0.6666666666666666,0.4444444444444444,0.9672131147540983,0.5333333333333333
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,A,31,15,15,9,0.6739130434782609,0.775,0.5,0.7209302325581396
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,B,0,46,3,21,0.0,0.0,0.9387755102040817,0.0
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,F,7,47,14,2,0.3333333333333333,0.7777777777777778,0.7704918032786885,0.4666666666666666
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Extra Trees,A,32,19,11,8,0.7441860465116279,0.8,0.6333333333333333,0.7710843373493975
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Extra Trees,B,11,36,13,10,0.4583333333333333,0.5238095238095238,0.7346938775510204,0.4888888888888889
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Extra Trees,F,2,60,1,7,0.6666666666666666,0.2222222222222222,0.9836065573770492,0.3333333333333333
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Decision Tree,A,33,17,13,7,0.717391304347826,0.825,0.5666666666666667,0.7674418604651162
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Decision Tree,B,8,35,14,13,0.36363636363636365,0.38095238095238093,0.7142857142857143,0.37209302325581395
+3class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Decision Tree,F,1,60,1,8,0.5,0.1111111111111111,0.9836065573770492,0.1818181818181818
+3class_duplicate_removed,FA5_Demographic,Gradient Boosting,A,40,0,30,0,0.5714285714285714,1.0,0.0,0.7272727272727273
+3class_duplicate_removed,FA5_Demographic,Gradient Boosting,B,0,49,0,21,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Gradient Boosting,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Random Forest,A,40,0,30,0,0.5714285714285714,1.0,0.0,0.7272727272727273
+3class_duplicate_removed,FA5_Demographic,Random Forest,B,0,49,0,21,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Random Forest,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Quadratic Discriminant Analysis,A,40,0,30,0,0.5714285714285714,1.0,0.0,0.7272727272727273
+3class_duplicate_removed,FA5_Demographic,Quadratic Discriminant Analysis,B,0,49,0,21,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Quadratic Discriminant Analysis,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Extra Trees,A,40,0,30,0,0.5714285714285714,1.0,0.0,0.7272727272727273
+3class_duplicate_removed,FA5_Demographic,Extra Trees,B,0,49,0,21,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Extra Trees,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Decision Tree,A,40,0,30,0,0.5714285714285714,1.0,0.0,0.7272727272727273
+3class_duplicate_removed,FA5_Demographic,Decision Tree,B,0,49,0,21,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA5_Demographic,Decision Tree,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA6_Socioeconomic,Gradient Boosting,A,36,15,15,4,0.7058823529411765,0.9,0.5,0.7912087912087913
+3class_duplicate_removed,FA6_Socioeconomic,Gradient Boosting,B,11,41,8,10,0.5789473684210527,0.5238095238095238,0.8367346938775511,0.5500000000000002
+3class_duplicate_removed,FA6_Socioeconomic,Gradient Boosting,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA6_Socioeconomic,Random Forest,A,33,15,15,7,0.6875,0.825,0.5,0.75
+3class_duplicate_removed,FA6_Socioeconomic,Random Forest,B,11,38,11,10,0.5,0.5238095238095238,0.7755102040816326,0.5116279069767442
+3class_duplicate_removed,FA6_Socioeconomic,Random Forest,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA6_Socioeconomic,Quadratic Discriminant Analysis,A,11,24,6,29,0.6470588235294118,0.275,0.8,0.3859649122807018
+3class_duplicate_removed,FA6_Socioeconomic,Quadratic Discriminant Analysis,B,2,41,8,19,0.2,0.09523809523809523,0.8367346938775511,0.12903225806451613
+3class_duplicate_removed,FA6_Socioeconomic,Quadratic Discriminant Analysis,F,8,26,35,1,0.18604651162790697,0.8888888888888888,0.4262295081967213,0.3076923076923077
+3class_duplicate_removed,FA6_Socioeconomic,Extra Trees,A,36,15,15,4,0.7058823529411765,0.9,0.5,0.7912087912087913
+3class_duplicate_removed,FA6_Socioeconomic,Extra Trees,B,11,41,8,10,0.5789473684210527,0.5238095238095238,0.8367346938775511,0.5500000000000002
+3class_duplicate_removed,FA6_Socioeconomic,Extra Trees,F,0,61,0,9,0.0,0.0,1.0,0.0
+3class_duplicate_removed,FA6_Socioeconomic,Decision Tree,A,36,15,15,4,0.7058823529411765,0.9,0.5,0.7912087912087913
+3class_duplicate_removed,FA6_Socioeconomic,Decision Tree,B,11,41,8,10,0.5789473684210527,0.5238095238095238,0.8367346938775511,0.5500000000000002
+3class_duplicate_removed,FA6_Socioeconomic,Decision Tree,F,0,61,0,9,0.0,0.0,1.0,0.0
+2class_original,FA1_Academic,Gradient Boosting,Fail,50,134,10,11,0.8333333333333334,0.819672131147541,0.9305555555555556,0.8264462809917356
+2class_original,FA1_Academic,Gradient Boosting,Pass,134,50,11,10,0.9241379310344827,0.9305555555555556,0.819672131147541,0.9273356401384083
+2class_original,FA1_Academic,Random Forest,Fail,51,136,8,10,0.864406779661017,0.8360655737704918,0.9444444444444444,0.85
+2class_original,FA1_Academic,Random Forest,Pass,136,51,10,8,0.9315068493150684,0.9444444444444444,0.8360655737704918,0.9379310344827586
+2class_original,FA1_Academic,Quadratic Discriminant Analysis,Fail,49,88,56,12,0.4666666666666667,0.8032786885245902,0.6111111111111112,0.5903614457831325
+2class_original,FA1_Academic,Quadratic Discriminant Analysis,Pass,88,49,12,56,0.88,0.6111111111111112,0.8032786885245902,0.7213114754098361
+2class_original,FA1_Academic,Extra Trees,Fail,51,136,8,10,0.864406779661017,0.8360655737704918,0.9444444444444444,0.85
+2class_original,FA1_Academic,Extra Trees,Pass,136,51,10,8,0.9315068493150684,0.9444444444444444,0.8360655737704918,0.9379310344827586
+2class_original,FA1_Academic,Decision Tree,Fail,51,136,8,10,0.864406779661017,0.8360655737704918,0.9444444444444444,0.85
+2class_original,FA1_Academic,Decision Tree,Pass,136,51,10,8,0.9315068493150684,0.9444444444444444,0.8360655737704918,0.9379310344827586
+2class_original,FA2_Academic_Demographic,Gradient Boosting,Fail,50,134,10,11,0.8333333333333334,0.819672131147541,0.9305555555555556,0.8264462809917356
+2class_original,FA2_Academic_Demographic,Gradient Boosting,Pass,134,50,11,10,0.9241379310344827,0.9305555555555556,0.819672131147541,0.9273356401384083
+2class_original,FA2_Academic_Demographic,Random Forest,Fail,51,139,5,10,0.9107142857142857,0.8360655737704918,0.9652777777777778,0.8717948717948717
+2class_original,FA2_Academic_Demographic,Random Forest,Pass,139,51,10,5,0.9328859060402684,0.9652777777777778,0.8360655737704918,0.9488054607508531
+2class_original,FA2_Academic_Demographic,Quadratic Discriminant Analysis,Fail,21,129,15,40,0.5833333333333334,0.3442622950819672,0.8958333333333334,0.43298969072164945
+2class_original,FA2_Academic_Demographic,Quadratic Discriminant Analysis,Pass,129,21,40,15,0.7633136094674556,0.8958333333333334,0.3442622950819672,0.8242811501597445
+2class_original,FA2_Academic_Demographic,Extra Trees,Fail,51,139,5,10,0.9107142857142857,0.8360655737704918,0.9652777777777778,0.8717948717948717
+2class_original,FA2_Academic_Demographic,Extra Trees,Pass,139,51,10,5,0.9328859060402684,0.9652777777777778,0.8360655737704918,0.9488054607508531
+2class_original,FA2_Academic_Demographic,Decision Tree,Fail,51,139,5,10,0.9107142857142857,0.8360655737704918,0.9652777777777778,0.8717948717948717
+2class_original,FA2_Academic_Demographic,Decision Tree,Pass,139,51,10,5,0.9328859060402684,0.9652777777777778,0.8360655737704918,0.9488054607508531
+2class_original,FA3_Academic_Socioeconomic,Gradient Boosting,Fail,49,134,10,12,0.8305084745762712,0.8032786885245902,0.9305555555555556,0.8166666666666667
+2class_original,FA3_Academic_Socioeconomic,Gradient Boosting,Pass,134,49,12,10,0.9178082191780822,0.9305555555555556,0.8032786885245902,0.9241379310344828
+2class_original,FA3_Academic_Socioeconomic,Random Forest,Fail,51,138,6,10,0.8947368421052632,0.8360655737704918,0.9583333333333334,0.864406779661017
+2class_original,FA3_Academic_Socioeconomic,Random Forest,Pass,138,51,10,6,0.9324324324324325,0.9583333333333334,0.8360655737704918,0.9452054794520548
+2class_original,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,Fail,9,141,3,52,0.75,0.14754098360655737,0.9791666666666666,0.24657534246575344
+2class_original,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,Pass,141,9,52,3,0.7305699481865285,0.9791666666666666,0.14754098360655737,0.8367952522255193
+2class_original,FA3_Academic_Socioeconomic,Extra Trees,Fail,51,138,6,10,0.8947368421052632,0.8360655737704918,0.9583333333333334,0.864406779661017
+2class_original,FA3_Academic_Socioeconomic,Extra Trees,Pass,138,51,10,6,0.9324324324324325,0.9583333333333334,0.8360655737704918,0.9452054794520548
+2class_original,FA3_Academic_Socioeconomic,Decision Tree,Fail,51,137,7,10,0.8793103448275862,0.8360655737704918,0.9513888888888888,0.8571428571428572
+2class_original,FA3_Academic_Socioeconomic,Decision Tree,Pass,137,51,10,7,0.9319727891156463,0.9513888888888888,0.8360655737704918,0.9415807560137457
+2class_original,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,Fail,51,135,9,10,0.85,0.8360655737704918,0.9375,0.8429752066115703
+2class_original,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,Pass,135,51,10,9,0.9310344827586207,0.9375,0.8360655737704918,0.9342560553633218
+2class_original,FA4_Academic_Demographic_Socioeconomic,Random Forest,Fail,51,140,4,10,0.9272727272727272,0.8360655737704918,0.9722222222222222,0.8793103448275862
+2class_original,FA4_Academic_Demographic_Socioeconomic,Random Forest,Pass,140,51,10,4,0.9333333333333333,0.9722222222222222,0.8360655737704918,0.9523809523809524
+2class_original,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,Fail,23,137,7,38,0.7666666666666667,0.3770491803278688,0.9513888888888888,0.5054945054945054
+2class_original,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,Pass,137,23,38,7,0.7828571428571428,0.9513888888888888,0.3770491803278688,0.8589341692789967
+2class_original,FA4_Academic_Demographic_Socioeconomic,Extra Trees,Fail,51,140,4,10,0.9272727272727272,0.8360655737704918,0.9722222222222222,0.8793103448275862
+2class_original,FA4_Academic_Demographic_Socioeconomic,Extra Trees,Pass,140,51,10,4,0.9333333333333333,0.9722222222222222,0.8360655737704918,0.9523809523809524
+2class_original,FA4_Academic_Demographic_Socioeconomic,Decision Tree,Fail,51,140,4,10,0.9272727272727272,0.8360655737704918,0.9722222222222222,0.8793103448275862
+2class_original,FA4_Academic_Demographic_Socioeconomic,Decision Tree,Pass,140,51,10,4,0.9333333333333333,0.9722222222222222,0.8360655737704918,0.9523809523809524
+2class_original,FA5_Demographic,Gradient Boosting,Fail,0,144,0,61,0.0,0.0,1.0,0.0
+2class_original,FA5_Demographic,Gradient Boosting,Pass,144,0,61,0,0.7024390243902439,1.0,0.0,0.8252148997134671
+2class_original,FA5_Demographic,Random Forest,Fail,0,144,0,61,0.0,0.0,1.0,0.0
+2class_original,FA5_Demographic,Random Forest,Pass,144,0,61,0,0.7024390243902439,1.0,0.0,0.8252148997134671
+2class_original,FA5_Demographic,Quadratic Discriminant Analysis,Fail,0,144,0,61,0.0,0.0,1.0,0.0
+2class_original,FA5_Demographic,Quadratic Discriminant Analysis,Pass,144,0,61,0,0.7024390243902439,1.0,0.0,0.8252148997134671
+2class_original,FA5_Demographic,Extra Trees,Fail,0,144,0,61,0.0,0.0,1.0,0.0
+2class_original,FA5_Demographic,Extra Trees,Pass,144,0,61,0,0.7024390243902439,1.0,0.0,0.8252148997134671
+2class_original,FA5_Demographic,Decision Tree,Fail,0,144,0,61,0.0,0.0,1.0,0.0
+2class_original,FA5_Demographic,Decision Tree,Pass,144,0,61,0,0.7024390243902439,1.0,0.0,0.8252148997134671
+2class_original,FA6_Socioeconomic,Gradient Boosting,Fail,16,133,11,45,0.5925925925925926,0.26229508196721313,0.9236111111111112,0.36363636363636365
+2class_original,FA6_Socioeconomic,Gradient Boosting,Pass,133,16,45,11,0.7471910112359551,0.9236111111111112,0.26229508196721313,0.8260869565217391
+2class_original,FA6_Socioeconomic,Random Forest,Fail,16,133,11,45,0.5925925925925926,0.26229508196721313,0.9236111111111112,0.36363636363636365
+2class_original,FA6_Socioeconomic,Random Forest,Pass,133,16,45,11,0.7471910112359551,0.9236111111111112,0.26229508196721313,0.8260869565217391
+2class_original,FA6_Socioeconomic,Quadratic Discriminant Analysis,Fail,58,50,94,3,0.3815789473684211,0.9508196721311475,0.3472222222222222,0.5446009389671361
+2class_original,FA6_Socioeconomic,Quadratic Discriminant Analysis,Pass,50,58,3,94,0.9433962264150944,0.3472222222222222,0.9508196721311475,0.5076142131979696
+2class_original,FA6_Socioeconomic,Extra Trees,Fail,16,130,14,45,0.5333333333333333,0.26229508196721313,0.9027777777777778,0.3516483516483517
+2class_original,FA6_Socioeconomic,Extra Trees,Pass,130,16,45,14,0.7428571428571429,0.9027777777777778,0.26229508196721313,0.8150470219435738
+2class_original,FA6_Socioeconomic,Decision Tree,Fail,16,130,14,45,0.5333333333333333,0.26229508196721313,0.9027777777777778,0.3516483516483517
+2class_original,FA6_Socioeconomic,Decision Tree,Pass,130,16,45,14,0.7428571428571429,0.9027777777777778,0.26229508196721313,0.8150470219435738
+2class_duplicate_removed,FA1_Academic,Gradient Boosting,Fail,3,59,2,6,0.6,0.3333333333333333,0.9672131147540983,0.42857142857142855
+2class_duplicate_removed,FA1_Academic,Gradient Boosting,Pass,59,3,6,2,0.9076923076923077,0.9672131147540983,0.3333333333333333,0.9365079365079365
+2class_duplicate_removed,FA1_Academic,Random Forest,Fail,3,58,3,6,0.5,0.3333333333333333,0.9508196721311475,0.4
+2class_duplicate_removed,FA1_Academic,Random Forest,Pass,58,3,6,3,0.90625,0.9508196721311475,0.3333333333333333,0.9279999999999999
+2class_duplicate_removed,FA1_Academic,Quadratic Discriminant Analysis,Fail,4,53,8,5,0.3333333333333333,0.4444444444444444,0.8688524590163934,0.380952380952381
+2class_duplicate_removed,FA1_Academic,Quadratic Discriminant Analysis,Pass,53,4,5,8,0.9137931034482759,0.8688524590163934,0.4444444444444444,0.8907563025210085
+2class_duplicate_removed,FA1_Academic,Extra Trees,Fail,3,58,3,6,0.5,0.3333333333333333,0.9508196721311475,0.4
+2class_duplicate_removed,FA1_Academic,Extra Trees,Pass,58,3,6,3,0.90625,0.9508196721311475,0.3333333333333333,0.9279999999999999
+2class_duplicate_removed,FA1_Academic,Decision Tree,Fail,4,57,4,5,0.5,0.4444444444444444,0.9344262295081968,0.47058823529411764
+2class_duplicate_removed,FA1_Academic,Decision Tree,Pass,57,4,5,4,0.9193548387096774,0.9344262295081968,0.4444444444444444,0.9268292682926829
+2class_duplicate_removed,FA2_Academic_Demographic,Gradient Boosting,Fail,3,60,1,6,0.75,0.3333333333333333,0.9836065573770492,0.46153846153846156
+2class_duplicate_removed,FA2_Academic_Demographic,Gradient Boosting,Pass,60,3,6,1,0.9090909090909091,0.9836065573770492,0.3333333333333333,0.9448818897637795
+2class_duplicate_removed,FA2_Academic_Demographic,Random Forest,Fail,3,60,1,6,0.75,0.3333333333333333,0.9836065573770492,0.46153846153846156
+2class_duplicate_removed,FA2_Academic_Demographic,Random Forest,Pass,60,3,6,1,0.9090909090909091,0.9836065573770492,0.3333333333333333,0.9448818897637795
+2class_duplicate_removed,FA2_Academic_Demographic,Quadratic Discriminant Analysis,Fail,2,55,6,7,0.25,0.2222222222222222,0.9016393442622951,0.23529411764705882
+2class_duplicate_removed,FA2_Academic_Demographic,Quadratic Discriminant Analysis,Pass,55,2,7,6,0.8870967741935484,0.9016393442622951,0.2222222222222222,0.8943089430894309
+2class_duplicate_removed,FA2_Academic_Demographic,Extra Trees,Fail,3,60,1,6,0.75,0.3333333333333333,0.9836065573770492,0.46153846153846156
+2class_duplicate_removed,FA2_Academic_Demographic,Extra Trees,Pass,60,3,6,1,0.9090909090909091,0.9836065573770492,0.3333333333333333,0.9448818897637795
+2class_duplicate_removed,FA2_Academic_Demographic,Decision Tree,Fail,5,58,3,4,0.625,0.5555555555555556,0.9508196721311475,0.5882352941176471
+2class_duplicate_removed,FA2_Academic_Demographic,Decision Tree,Pass,58,5,4,3,0.9354838709677419,0.9508196721311475,0.5555555555555556,0.943089430894309
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Gradient Boosting,Fail,3,59,2,6,0.6,0.3333333333333333,0.9672131147540983,0.42857142857142855
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Gradient Boosting,Pass,59,3,6,2,0.9076923076923077,0.9672131147540983,0.3333333333333333,0.9365079365079365
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Random Forest,Fail,3,59,2,6,0.6,0.3333333333333333,0.9672131147540983,0.42857142857142855
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Random Forest,Pass,59,3,6,2,0.9076923076923077,0.9672131147540983,0.3333333333333333,0.9365079365079365
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,Fail,7,49,12,2,0.3684210526315789,0.7777777777777778,0.8032786885245902,0.5
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Quadratic Discriminant Analysis,Pass,49,7,2,12,0.9607843137254902,0.8032786885245902,0.7777777777777778,0.8750000000000001
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Extra Trees,Fail,3,57,4,6,0.42857142857142855,0.3333333333333333,0.9344262295081968,0.375
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Extra Trees,Pass,57,3,6,4,0.9047619047619048,0.9344262295081968,0.3333333333333333,0.9193548387096775
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Decision Tree,Fail,5,56,5,4,0.5,0.5555555555555556,0.9180327868852459,0.5263157894736842
+2class_duplicate_removed,FA3_Academic_Socioeconomic,Decision Tree,Pass,56,5,4,5,0.9333333333333333,0.9180327868852459,0.5555555555555556,0.9256198347107439
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,Fail,3,59,2,6,0.6,0.3333333333333333,0.9672131147540983,0.42857142857142855
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Gradient Boosting,Pass,59,3,6,2,0.9076923076923077,0.9672131147540983,0.3333333333333333,0.9365079365079365
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Random Forest,Fail,3,61,0,6,1.0,0.3333333333333333,1.0,0.5
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Random Forest,Pass,61,3,6,0,0.9104477611940298,1.0,0.3333333333333333,0.953125
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,Fail,9,47,14,0,0.391304347826087,1.0,0.7704918032786885,0.5625
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Quadratic Discriminant Analysis,Pass,47,9,0,14,1.0,0.7704918032786885,1.0,0.8703703703703703
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Extra Trees,Fail,3,61,0,6,1.0,0.3333333333333333,1.0,0.5
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Extra Trees,Pass,61,3,6,0,0.9104477611940298,1.0,0.3333333333333333,0.953125
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Decision Tree,Fail,5,57,4,4,0.5555555555555556,0.5555555555555556,0.9344262295081968,0.5555555555555556
+2class_duplicate_removed,FA4_Academic_Demographic_Socioeconomic,Decision Tree,Pass,57,5,4,4,0.9344262295081968,0.9344262295081968,0.5555555555555556,0.9344262295081968
+2class_duplicate_removed,FA5_Demographic,Gradient Boosting,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA5_Demographic,Gradient Boosting,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA5_Demographic,Random Forest,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA5_Demographic,Random Forest,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA5_Demographic,Quadratic Discriminant Analysis,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA5_Demographic,Quadratic Discriminant Analysis,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA5_Demographic,Extra Trees,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA5_Demographic,Extra Trees,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA5_Demographic,Decision Tree,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA5_Demographic,Decision Tree,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA6_Socioeconomic,Gradient Boosting,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA6_Socioeconomic,Gradient Boosting,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA6_Socioeconomic,Random Forest,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA6_Socioeconomic,Random Forest,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA6_Socioeconomic,Quadratic Discriminant Analysis,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA6_Socioeconomic,Quadratic Discriminant Analysis,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA6_Socioeconomic,Extra Trees,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA6_Socioeconomic,Extra Trees,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
+2class_duplicate_removed,FA6_Socioeconomic,Decision Tree,Fail,0,61,0,9,0.0,0.0,1.0,0.0
+2class_duplicate_removed,FA6_Socioeconomic,Decision Tree,Pass,61,0,9,0,0.8714285714285714,1.0,0.0,0.9312977099236641
