@@ -1,0 +1,7 @@
+Dataset,Samples,Training Samples,Testing Samples,Features,Classes
+3class_original,1021,816,205,15,3
+3class_duplicate_removed,348,278,70,15,3
+3class_outlier_removed,239,191,48,15,3
+2class_original,1021,816,205,15,2
+2class_duplicate_removed,348,278,70,15,2
+2class_outlier_removed,239,191,48,15,2
